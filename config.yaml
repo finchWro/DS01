@@ -1,0 +1,17 @@
+# Konfiguracja eksperymentów i powtarzalności
+
+ogolne:
+  ziarno_losowe: 42
+  nazwa_projektu: "praca-koncowa-data-science"
+
+sciezki:
+  dane_surowe: "data/raw"
+  dane_przetworzone: "data/processed"
+  wykresy: "outputs/figures"
+  tabele: "outputs/tables"
+  modele: "outputs/models"
+
+podzial_danych:
+  udzial_testowy: 0.2
+  liczba_foldow_cv: 5
+  stratyfikacja: true

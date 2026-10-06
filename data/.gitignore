@@ -1,0 +1,8 @@
+# Ignoruj wszystkie pliki z danymi w tym katalogu i podkatalogach
+*
+
+# Nie ignoruj plików konfiguracyjnych i dokumentacji
+!.gitignore
+!README.md
+!raw/
+!processed/
