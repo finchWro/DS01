@@ -2,7 +2,7 @@
 
 ogolne:
   ziarno_losowe: 42
-  nazwa_projektu: "praca-koncowa-data-science"
+  nazwa_projektu: "praca-koncowa-zieba"
 
 sciezki:
   dane_surowe: "data/raw"

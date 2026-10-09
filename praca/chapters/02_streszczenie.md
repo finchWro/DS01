@@ -9,8 +9,14 @@ Elementy obowiązkowe:
 5. Kluczowy wniosek: Jeden najważniejszy wniosek merytoryczny.
 -->
 
-[Wpisz treść streszczenia...]
 
-**Słowa kluczowe:** Data Science, Uczenie Maszynowe, [Słowo kluczowe 3], [Słowo kluczowe 4], [Słowo kluczowe 5]
+Problem  [opis do zrobienia]
+Dane [opis do zrobienia]
+Metoda [opis do zrobienia]
+Główny wynik liczbowy [opis do zrobienia]
+Kluczowy wniosek [opis do zrobienia]
+
+
+**Słowa kluczowe:** Data Science, Uczenie Maszynowe
 
 \newpage

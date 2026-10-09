@@ -4,7 +4,7 @@
 
 \vspace{3cm}
 
-# [TYTUŁ PRACY KOŃCOWEJ / TEMAT PROJEKTU]
+# Maksymalizacja efektywności spektralnej w sieciach 5G/6G Massive MIMO przy pomocy predykcji wiązki w dziedzinie przestrzeni
 
 \vspace{4cm}
 
